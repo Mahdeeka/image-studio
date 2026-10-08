@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# render leftovers when the kit is run in place
+_*.html
+_*.png
+out/

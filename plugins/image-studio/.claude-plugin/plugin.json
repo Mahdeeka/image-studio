@@ -1,0 +1,13 @@
+{
+  "name": "image-studio",
+  "displayName": "Image Studio",
+  "description": "Design posters, Instagram stories and WhatsApp images with flawless Arabic text and untouched real photos. Images are composed in code from layers: text is typed with real fonts, and AI paints only text-free backgrounds and verified brush lettering.",
+  "author": {
+    "name": "Mahdi Kabaha",
+    "url": "https://github.com/Mahdeeka"
+  },
+  "homepage": "https://github.com/Mahdeeka/image-studio",
+  "repository": "https://github.com/Mahdeeka/image-studio",
+  "license": "MIT",
+  "keywords": ["design", "poster", "instagram", "arabic", "rtl", "image-generation", "social-media"]
+}

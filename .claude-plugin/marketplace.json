@@ -1,0 +1,16 @@
+{
+  "name": "image-studio",
+  "description": "Image Studio: designed images with correct Arabic text, composed in code.",
+  "owner": {
+    "name": "Mahdi Kabaha",
+    "url": "https://github.com/Mahdeeka"
+  },
+  "plugins": [
+    {
+      "name": "image-studio",
+      "source": "./plugins/image-studio",
+      "description": "Design posters, Instagram stories and WhatsApp images with flawless Arabic text and untouched real photos.",
+      "category": "design"
+    }
+  ]
+}
